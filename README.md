@@ -15,6 +15,8 @@ OPTIONAL:
 
 2. Once all common errors and problems are solved, run the script by typing 'python illuminate.py'
 
+2b. Optional: Edit connect_bluetooth.sh to have a MAC address that reflects your bluetooth device.
+
 3. Script is now running! Make vocal commands as shown below:
 
 
