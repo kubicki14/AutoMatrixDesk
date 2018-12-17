@@ -1,5 +1,5 @@
 # DESK AUTOMATION
-## This is a Proof-of-Concept for my current company 'Illumination Works', where the goal is to automate desk actions to demonstrate accurate phrase/voice recognition capabilities. Here are a list of some of the commands that it can recognize and the actions they take:
+## This is a Proof-of-Concept for the company 'Illumination Works', where the goal is to automate desk actions to demonstrate accurate phrase/voice recognition capabilities. Here are a list of some of the commands that it can recognize and the actions they take:
 
 ## PREREQS:
 - A raspberry pi
