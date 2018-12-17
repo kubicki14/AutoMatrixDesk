@@ -25,7 +25,7 @@ OPTIONAL:
 
 
 
-### 'Illuminate' 
+### - 'Illuminate' 
 = Saying this word/command turns on the lights on my desk, including christmas lights. It does this using python modules, regular expressions, and a tp-link API that talks to a smart wi-fi plug.
 
 
